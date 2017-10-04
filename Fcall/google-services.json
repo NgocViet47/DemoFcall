@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "95053591969",
+    "project_id": "hellocordova-f8ec0"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95053591969:android:f52ffe99dc638fdf",
+        "android_client_info": {
+          "package_name": "io.cordova.hellocordova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95053591969-gi87hunub25sj1esml5tenel4tcp5uin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxAr0L-8FPv8LW1-LoMU4Hol2fJKbzqjc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
